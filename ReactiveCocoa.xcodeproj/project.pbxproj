@@ -812,7 +812,7 @@
 				D04725ED19E49ED7006002AA /* Supporting Files */,
 				9AB15C791E26CD9A00997378 /* Deprecations+Removals.swift */,
 			);
-			path = ReactiveCocoa;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		D04725ED19E49ED7006002AA /* Supporting Files */ = {
@@ -849,7 +849,7 @@
 				CD42C69A1E951F6900AA9504 /* ReactiveCocoaTestsConfiguration.swift */,
 				D04725FA19E49ED7006002AA /* Supporting Files */,
 			);
-			path = ReactiveCocoaTests;
+			path = Tests;
 			sourceTree = "<group>";
 		};
 		D04725FA19E49ED7006002AA /* Supporting Files */ = {
@@ -1610,7 +1610,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Debug;
@@ -1624,7 +1624,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Test;
@@ -1638,7 +1638,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Release;
@@ -1652,7 +1652,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Profile;
@@ -1793,7 +1793,7 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Debug;
@@ -1806,7 +1806,7 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Release;
@@ -1843,7 +1843,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Debug;
@@ -1856,7 +1856,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Release;
@@ -1900,7 +1900,7 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Profile;
@@ -1925,7 +1925,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Profile;
@@ -1969,7 +1969,7 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Test;
@@ -1994,7 +1994,7 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = ReactiveCocoaTests/Info.plist;
+				INFOPLIST_FILE = Tests/Info.plist;
 				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
 			};
 			name = Test;
